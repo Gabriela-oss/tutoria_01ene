@@ -1,0 +1,33 @@
+#phone{
+    width: 320px;
+    height: 600px;
+    background-color: white;
+    text-align: center;
+    overflow: auto;
+}
+body{
+    background-color: black;
+}
+#img-1{
+    width: 150px;
+    height:60%;
+    float: left;
+    margin-right: 3%;
+    padding: 20px; 
+
+}
+#text{
+    background-color: white;
+    padding: 19px; 
+    font-size: small;
+}
+#img-2{
+width: 250px;
+height: 200px;
+}
+button{
+    background-color: pink;
+}
+section{
+    padding: 3%;
+}

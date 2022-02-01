@@ -1,0 +1,16 @@
+#phone{
+    width: 320px;
+    height: 600px;
+    background-color: white;
+    text-align: center;
+    overflow: auto;
+}
+body{
+    background-color: black;
+}
+button{
+    background-color: pink;
+}
+section{
+    padding: 3%;
+}
